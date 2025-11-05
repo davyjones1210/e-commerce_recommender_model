@@ -1,6 +1,14 @@
 # DSI_ML6
 Data Science Institute ML6 repo
 
+# First review w/ Aditya K
+
+Example questions of datasets: Collection of datasets. We give this to every cohort. 
+
+What teams usually do: Go beyond that and try to exlore what the data offers and what extra insights can be obtained.
+-  can use other datasets and other example questions to asses quality of data or incorporate that dataset to solve the research problem. As creative as you want
+- Example: Weather dataset to analyze foot traffic
+
 # Dataset: Online Retail II
 This is a classic retail transaction dataset (it’s actually from the UCI Online Retail Dataset, often used in ML and analytics). 
 
