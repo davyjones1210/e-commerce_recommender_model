@@ -1,8 +1,7 @@
 # DSI_ML6
 Data Science Institute ML6 repo
 
-# Shortlisted datasets
-- E-Commerce Sales Dataset
+# Shortlisted dataset
 - Online Retail II
 
 # Questions to review:
@@ -14,6 +13,7 @@ Data Science Institute ML6 repo
 # Ideas
 
 - Build a recommender model
+- Season changes in sales/quarterly impact: demostrate regression, classification and clustering along category of products against the sales
 - Define a larger problem related to revenue and within that identify a few sub problems
 
 # First review w/ Aditya K
