@@ -27,6 +27,12 @@ Data Science Institute ML6 repo
 - Basic goal: Growing revenue. Pivot to smaller or easier problem but addressing main goal of revenue uplift.
 - Other ideas: Attract more customers/clicks by building customer personas. Based on these personas, have a profile you can target to other platforms. Have 5-7 good clusters, and based on their purchase trends, build a recommender models and build a customer persona to use on another platform.
 - Have streamlined marketing campaigns for each segments. 
+- Multivariate, linear regression problem in-terms of inventory to maintain at product level. Predictions of product inventory to ensure it does not run out.
+
+# Second review w/ Phil
+- Evaluated not on the code or model but identifying the problem, finding a solution and communicating usable results
+- Focus on ONE end-to-end
+- Product recommender is a good idea! Take a day to investigate further and see how it can be built out
 
 
 # First review w/ Aditya K
