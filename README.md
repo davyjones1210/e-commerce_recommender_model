@@ -24,6 +24,9 @@ Data Science Institute ML6 repo
     - anything where there is upselling or cross-selling - a recommender model is used
     - Idea: Simple recommender model
 - Business question: Current recommender needs to be replaced; do some visualizations. Ex: 30% of orders are from just 1-2 products. Need to increase order count for other products.
+- Basic goal: Growing revenue. Pivot to smaller or easier problem but addressing main goal of revenue uplift.
+- Other ideas: Attract more customers/clicks by building customer personas. Based on these personas, have a profile you can target to other platforms. Have 5-7 good clusters, and based on their purchase trends, build a recommender models and build a customer persona to use on another platform.
+- Have streamlined marketing campaigns for each segments. 
 
 
 # First review w/ Aditya K
