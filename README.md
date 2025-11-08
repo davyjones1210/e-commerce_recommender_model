@@ -54,7 +54,7 @@ Done today:
 To do list for tomorrow
 - EDA (explotatory data analysis)
 - Data wrangling - process of transferring raw/messy data into usable data. Includes, cleaning and structuring of data so its ready for analysis
-- 
+- Review and refer to team project readme guidelines: https://github.com/UofT-DSI/team_project/blob/main/README.md
 
 # First review w/ Aditya K
 
