@@ -16,9 +16,9 @@ Data Science Institute ML6 repo
 
 - 5. Our goal is to develop a recommender model which results in:
 
-    a. Reducing the low-basket orders from 32% to 10%
+        - a. Reducing the low-basket orders from 32% to 10%
 
-    b. Improving conversion among serious visitors from 8% to 10% resulting in 25% increase in monthly order volume (177 additional orders)
+        - b. Improving conversion among serious visitors from 8% to 10% resulting in 25% increase in monthly order volume (177 additional orders)
 
 
 # Questions to review:
